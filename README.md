@@ -14,11 +14,11 @@ This project is a frontend + backend application demonstrating the use of select
 - CSS3
 - JavaScript / jQuery
 - PHP
-- JSONP (as a fallback for server-side cURL limitations)
+
 
 ## 🚀 Live Demo
 
-[Click to view the live site](http://ppeliance.space)
+[Click to view the live site](http://pelumi.infy.uk)
 
 ## 🛠️ Setup Instructions
 
@@ -31,7 +31,7 @@ Upload to a PHP-enabled server (e.g. InfinityFree, FreeHostia, etc.)
 
 Ensure the following files are included:
 
-index.html (or index.php)
+index.html 
 
 api.php
 
@@ -41,8 +41,6 @@ style.css
 
 favicon.png
 
-⚠️ Hosting Notes
-Some free hosting services like FreeHostia may block cURL in the free tier. In this case, the application includes a fallback using JSONP to fetch data from GeoNames directly in the browser.
 
 📂 Project Structure
 
