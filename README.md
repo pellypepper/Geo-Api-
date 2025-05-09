@@ -45,9 +45,7 @@ favicon.png
 Some free hosting services like FreeHostia may block cURL in the free tier. In this case, the application includes a fallback using JSONP to fetch data from GeoNames directly in the browser.
 
 📂 Project Structure
-pgsql
-Copy
-Edit
+
 /
 │
 ├── index.html / index.php
